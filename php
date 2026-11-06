@@ -3,7 +3,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Minha aplicação PHP</title>
+    <title>APLICAÇÃO PHP</title>
 </head>
 <body>
 
